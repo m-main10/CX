@@ -8,4 +8,6 @@ add_executable(lang main.c
         CXobject.h
         GC.c
         GC.h
-        token.c)
+        token.c
+        ArrayCXObject.c
+        ArrayCXObject.h)
